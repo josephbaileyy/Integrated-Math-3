@@ -20,6 +20,7 @@
 - [x] 3-1 Solving Systems of Equations
 - [x] 3-2 Solving Systems of Inequalities by Graphing
 - [x] 3-3 Optimization with Linear Programming
+  - [Example](https://www.youtube.com/watch?v=lBc9mtDqRoY)
 - [ ] 3-4 Systems of Equations in Three Variables
 - [ ] 3-5 Solving Systems of Equations Using Cramer's Rule
 - [ ] 3-6 Solving Systems of Equations Using Inverse Matrices
