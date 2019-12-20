@@ -2,24 +2,24 @@
 
 ## Lessons
 ### Chapter 1 Equations And Inequalities
-- [ ] 1-1 Expressions and Formulas
-- [ ] 1-2 Properties of Real Numbers
-- [ ] 1-3 Solving Equations
-- [ ] 1-4 Solving Absolute Value Equations
-- [ ] 1-5 Solving Inequalities
-- [ ] 1-6 Solving Compound and Absolute Value Inequalities
+- [x] 1-1 Expressions and Formulas
+- [x] 1-2 Properties of Real Numbers
+- [x] 1-3 Solving Equations
+- [x] 1-4 Solving Absolute Value Equations
+- [x] 1-5 Solving Inequalities
+- [x] 1-6 Solving Compound and Absolute Value Inequalities
 ### Chapter 2 Linear Relations And Functions
-- [ ] 2-1 Relations and Functions
-- [ ] 2-2 Linear Relations and Functions
-- [ ] 2-3 Rate of Change and Slope
-- [ ] 2-4 Writing Linear Equations
-- [ ] 2-5 Special Functions
-- [ ] 2-6 Parent Functions and Transformations
-- [ ] 2-7 Graphing Linear Absolute Value Inequalities
+- [x] 2-1 Relations and Functions
+- [x] 2-2 Linear Relations and Functions
+- [x] 2-3 Rate of Change and Slope
+- [x] 2-4 Writing Linear Equations
+- [x] 2-5 Special Functions
+- [x] 2-6 Parent Functions and Transformations
+- [x] 2-7 Graphing Linear Absolute Value Inequalities
 ### Chapter 3 Systems Of Equations And Inequalities
-- [ ] 3-1 Solving Systems of Equations
-- [ ] 3-2 Solving Systems of Inequalities by Graphing
-- [ ] 3-3 Optimization with Linear Programming
+- [x] 3-1 Solving Systems of Equations
+- [x] 3-2 Solving Systems of Inequalities by Graphing
+- [x] 3-3 Optimization with Linear Programming
 - [ ] 3-4 Systems of Equations in Three Variables
 - [ ] 3-5 Solving Systems of Equations Using Cramer's Rule
 - [ ] 3-6 Solving Systems of Equations Using Inverse Matrices
