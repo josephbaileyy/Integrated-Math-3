@@ -30,15 +30,20 @@
   - [Example : 3 Variable](https://www.youtube.com/watch?v=hu6B1d3vvqU)
 ### Chapter 4 Polynomials And Polynomial Functions
 - [x] 4-1 Operations with Polynomials
-- [ ] 4-2 Dividing Polynomials
+- [x] 4-2 Dividing Polynomials
   - [Example : Long Division](https://www.youtube.com/watch?v=TA8CUM6IY3E)
   - [Example : Synthetic Division](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-synthetic-division-of-polynomials/v/synthetic-division)
-- [ ] 4-3 Polynomial Functions
-- [ ] 4-4 Analyzing Graphs of Polynomial Functions
+- [x] 4-3 Polynomial Functions
+  - [Lesson](http://www.mathcentre.ac.uk/resources/uploaded/mc-ty-polynomial-2009-1.pdf)
+- [x] 4-4 Analyzing Graphs of Polynomial Functions
+  - [Example](https://www.youtube.com/watch?v=07ePPyjFdtQ)
 - [ ] 4-5 Solving Polynomial Equations
 - [ ] 4-6 The Remainder and Factor Theorems
 - [ ] 4-7 Roots and Zeros
+  - [Example](https://www.youtube.com/watch?v=3Z2BGDpHYRY)
 - [ ] 4-8 Rational Zero Theorem
+  - [Example](https://www.youtube.com/watch?v=YMyv9-9VXw4)
+  - [Explanation](https://www.youtube.com/watch?v=jERVeo3Dtkw)
 ### Chapter 5 Inverses And Radical Functions And Relations
 - [ ] 5-1 Operations on Functions
 - [ ] 5-2 Inverse Functions and Relations
