@@ -29,10 +29,12 @@
   - [Example : 2 Variable](https://www.youtube.com/watch?v=Gkx5V3YMogs)
   - [Example : 3 Variable](https://www.youtube.com/watch?v=hu6B1d3vvqU)
 ### Chapter 4 Polynomials And Polynomial Functions
-- [ ] 4-1 Operations with Polynomials
+- [x] 4-1 Operations with Polynomials
 - [ ] 4-2 Dividing Polynomials
+  - [Example : Long Division](https://www.youtube.com/watch?v=TA8CUM6IY3E)
+  - [Example : Synthetic Division](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-synthetic-division-of-polynomials/v/synthetic-division)
 - [ ] 4-3 Polynomial Functions
-- [ ] 4-4 Analyzing Grpahs of Polynomial Functions
+- [ ] 4-4 Analyzing Graphs of Polynomial Functions
 - [ ] 4-5 Solving Polynomial Equations
 - [ ] 4-6 The Remainder and Factor Theorems
 - [ ] 4-7 Roots and Zeros
