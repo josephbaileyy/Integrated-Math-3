@@ -21,9 +21,13 @@
 - [x] 3-2 Solving Systems of Inequalities by Graphing
 - [x] 3-3 Optimization with Linear Programming
   - [Example](https://www.youtube.com/watch?v=lBc9mtDqRoY)
-- [ ] 3-4 Systems of Equations in Three Variables
-- [ ] 3-5 Solving Systems of Equations Using Cramer's Rule
-- [ ] 3-6 Solving Systems of Equations Using Inverse Matrices
+- [x] 3-4 Systems of Equations in Three Variables
+- [x] 3-5 Solving Systems of Equations Using Cramer's Rule
+  - [Example : 2 Variable](https://www.youtube.com/watch?v=gqkBaonNSjI)
+  - [Example : 3 Variable](https://www.youtube.com/watch?v=TtxVGMWXMSE)
+- [x] 3-6 Solving Systems of Equations Using Inverse Matrices
+  - [Example : 2 Variable](https://www.youtube.com/watch?v=Gkx5V3YMogs)
+  - [Example : 3 Variable](https://www.youtube.com/watch?v=hu6B1d3vvqU)
 ### Chapter 4 Polynomials And Polynomial Functions
 - [ ] 4-1 Operations with Polynomials
 - [ ] 4-2 Dividing Polynomials
