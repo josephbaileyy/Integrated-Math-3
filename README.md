@@ -48,13 +48,21 @@
   - [Example](https://www.youtube.com/watch?v=YMyv9-9VXw4)
   - [Explanation](https://www.youtube.com/watch?v=jERVeo3Dtkw)
 ### Chapter 5 Inverses And Radical Functions And Relations
-- [ ] 5-1 Operations on Functions
-- [ ] 5-2 Inverse Functions and Relations
-- [ ] 5-3 Square Root Functions and Inequalities
-- [ ] 5-4 nth Roots
-- [ ] 5-5 Operations with Radical Expressions
-- [ ] 5-6 Rational Exponents
-- [ ] 5-7 Solving Radical Equations and Ineqalities
+- [x] 5-1 Operations on Functions
+  - [Lesson](https://www.varsitytutors.com/hotmath/hotmath_help/topics/operations-on-functions)
+- [x] 5-2 Inverse Functions and Relations
+  - [Lesson](https://www.youtube.com/watch?v=on0E9e7P2sQ)
+- [x] 5-3 Square Root Functions and Inequalities
+  - [Lesson](https://www.youtube.com/watch?v=-oG0HNwvvPk)
+- [x] 5-4 nth Roots
+  - [Lesson](https://www.youtube.com/watch?v=b-lL9LYBRto)
+- [x] 5-5 Operations with Radical Expressions
+  - [Lesson](https://www.youtube.com/watch?v=Hv9xkRgwid4)
+- [x] 5-6 Rational Exponents
+  - [Example](https://www.youtube.com/watch?v=wDn8IuAgRwc)
+- [x] 5-7 Solving Radical Equations and Ineqalities
+  - [Example](https://www.youtube.com/watch?v=g3rzuggIgIw)
+  - [Extraneous Solution Explanation](https://www.youtube.com/watch?v=-k6K-NoklSo)
 ### Chapter 6 Exponential And Logarithmic Functions And Relations
 - [ ] 6-1 Logarithms and Logarithmic Functions
 - [ ] 6-2 Solving Logarithmic Equations and Inequalities
