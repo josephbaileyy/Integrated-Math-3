@@ -37,11 +37,14 @@
   - [Lesson](http://www.mathcentre.ac.uk/resources/uploaded/mc-ty-polynomial-2009-1.pdf)
 - [x] 4-4 Analyzing Graphs of Polynomial Functions
   - [Example](https://www.youtube.com/watch?v=07ePPyjFdtQ)
-- [ ] 4-5 Solving Polynomial Equations
-- [ ] 4-6 The Remainder and Factor Theorems
-- [ ] 4-7 Roots and Zeros
+- [x] 4-5 Solving Polynomial Equations
+  - [Example](https://www.youtube.com/watch?v=0oF09ATZyvE)
+- [x] 4-6 The Remainder and Factor Theorems
+  - [Example](https://www.youtube.com/watch?v=_IPqCaspZOs)
+- [x] 4-7 Roots and Zeros
   - [Example](https://www.youtube.com/watch?v=3Z2BGDpHYRY)
-- [ ] 4-8 Rational Zero Theorem
+  - [Roots vs. Zeros](https://math.stackexchange.com/questions/82643/root-or-zero-which-to-use-when)
+- [xj] 4-8 Rational Zero Theorem
   - [Example](https://www.youtube.com/watch?v=YMyv9-9VXw4)
   - [Explanation](https://www.youtube.com/watch?v=jERVeo3Dtkw)
 ### Chapter 5 Inverses And Radical Functions And Relations
