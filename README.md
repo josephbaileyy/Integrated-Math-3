@@ -44,7 +44,7 @@
 - [x] 4-7 Roots and Zeros
   - [Example](https://www.youtube.com/watch?v=3Z2BGDpHYRY)
   - [Roots vs. Zeros](https://math.stackexchange.com/questions/82643/root-or-zero-which-to-use-when)
-- [xj] 4-8 Rational Zero Theorem
+- [x] 4-8 Rational Zero Theorem
   - [Example](https://www.youtube.com/watch?v=YMyv9-9VXw4)
   - [Explanation](https://www.youtube.com/watch?v=jERVeo3Dtkw)
 ### Chapter 5 Inverses And Radical Functions And Relations
