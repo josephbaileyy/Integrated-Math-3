@@ -64,8 +64,10 @@
   - [Example](https://www.youtube.com/watch?v=g3rzuggIgIw)
   - [Extraneous Solution Explanation](https://www.youtube.com/watch?v=-k6K-NoklSo)
 ### Chapter 6 Exponential And Logarithmic Functions And Relations
-- [ ] 6-1 Logarithms and Logarithmic Functions
-- [ ] 6-2 Solving Logarithmic Equations and Inequalities
+- [x] 6-1 Logarithms and Logarithmic Functions
+  - [Example](https://www.youtube.com/watch?v=EvQCLCaiq2U)
+- [x] 6-2 Solving Logarithmic Equations and Inequalities
+  - [Example](https://www.youtube.com/watch?v=fnhFneOz6n8)
 - [ ] 6-3 Properties of Logarithms
 - [ ] 6-4 Common Logarithms
 - [ ] 6-5 Base e and Natural Logarithms
