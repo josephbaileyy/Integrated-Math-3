@@ -68,16 +68,26 @@
   - [Example](https://www.youtube.com/watch?v=EvQCLCaiq2U)
 - [x] 6-2 Solving Logarithmic Equations and Inequalities
   - [Example](https://www.youtube.com/watch?v=fnhFneOz6n8)
-- [ ] 6-3 Properties of Logarithms
-- [ ] 6-4 Common Logarithms
-- [ ] 6-5 Base e and Natural Logarithms
-- [ ] 6-6 Using Exponential and Logarithmic Functions
+- [x] 6-3 Properties of Logarithms
+  - [Example](https://www.youtube.com/watch?v=AAW7WRFBKdw)
+  - [Rules](https://www.mathwords.com/l/logarithm_rules.htm)
+- [x] 6-4 Common Logarithms
+- [x] 6-5 Base e and Natural Logarithms
+  - [Explanation](https://www.youtube.com/watch?v=_-x90wGBD8U)
+- [x] 6-6 Using Exponential and Logarithmic Functions
+  - [Example](https://www.youtube.com/watch?v=6WQnY3wGtY0)
 ### Chapter 7 Rational Functions And Relations
-- [ ] 7-1 Multiplying and Dividing Rational Expressions
-- [ ] 7-2 Adding and Subtracting Rational Expressions
-- [ ] 7-3 Graphing Reciprocal Functions
-- [ ] 7-4 Graphing Rational Functions
-- [ ] 7-5 Solving Rational Equations and Inequalities
+- [x] 7-1 Multiplying and Dividing Rational Expressions
+  - [Example](https://www.youtube.com/watch?v=RROSgr4oXjU)
+- [x] 7-2 Adding and Subtracting Rational Expressions
+  - [Example](https://www.youtube.com/watch?v=1KGVwaUhR-s)
+- [x] 7-3 Graphing Reciprocal Functions
+  - [Lesson](https://www.youtube.com/watch?v=jpy11Lzi1KQ)
+- [x] 7-4 Graphing Rational Functions
+  - [Lesson](https://www.youtube.com/watch?v=E1fCj5um8_c)
+  - [Example](https://www.youtube.com/watch?v=XE-Z2-F3oWw)
+- [x] 7-5 Solving Rational Equations and Inequalities
+  - [Example](https://www.youtube.com/watch?v=1fR_9ke5-n8)
 ### Chapter 8 Conic Sections
 - [ ] 8-1 Midpoint and Distance Formulas
 - [ ] 8-2 Parabolas
