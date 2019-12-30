@@ -89,13 +89,19 @@
 - [x] 7-5 Solving Rational Equations and Inequalities
   - [Example](https://www.youtube.com/watch?v=1fR_9ke5-n8)
 ### Chapter 8 Conic Sections
-- [ ] 8-1 Midpoint and Distance Formulas
-- [ ] 8-2 Parabolas
-- [ ] 8-3 Circles
-- [ ] 8-4 Ellipses
-- [ ] 8-5 Hyperbolas
-- [ ] 8-6 Identifying Conic Sections
-- [ ] 8-7 Solving Linear-Nonlinear Systems
+- [x] 8-1 Midpoint and Distance Formulas
+- [x] 8-2 Parabolas
+  - [Lesson](https://www.youtube.com/watch?v=JulYbK9yi1A)
+- [x] 8-3 Circles
+  - [Lesson](https://www.youtube.com/watch?v=PLrgwD9TleU&t=0s)
+- [x] 8-4 Ellipses
+  - [Lesson](https://www.youtube.com/watch?v=PLrgwD9TleU&t=234s)
+- [x] 8-5 Hyperbolas
+  - [Lesson](https://www.youtube.com/watch?v=PLrgwD9TleU&t=1404s)
+- [x] 8-6 Identifying Conic Sections
+  - [Lesson](https://www.youtube.com/watch?v=auD46ZWZxQo)
+- [x] 8-7 Solving Linear-Nonlinear Systems
+  - [Example](https://www.youtube.com/watch?v=H-_yl6xHPSI)
 ### Chapter 9 Sequences And Series
 - [ ] 9-1 Sequences as Functions
 - [ ] 9-2 Arithmetic Sequences and Series
