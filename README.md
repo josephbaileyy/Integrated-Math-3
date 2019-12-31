@@ -110,8 +110,8 @@
 - [x] 9-3 Geometric Sequences and Series
   - [Lesson](https://www.youtube.com/watch?v=LkYQYsZP524)
   - [Derivation](https://www.mathalino.com/reviewer/derivation-of-formulas/sum-of-finite-and-infinite-geometric-progression)
-- [ ] 9-4 The Binomial Theorem
-  ![equation](https://latex.codecogs.com/svg.latex?%7Bn%20%5Cchoose%20k%7D%3D%5Cfrac%7Bn%21%7D%7B%28n-k%29%21n%21%7D)
+- [x] 9-4 The Binomial Theorem\
+  ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%7Bn%20%5Cchoose%20k%7D%3D%5Cfrac%7Bn%21%7D%7B%28n-k%29%21n%21%7D)
   - [Lesson](https://www.youtube.com/watch?v=iPwrDWQ7hPc)
 - [ ] 9-5 Proof by Mathematical Induction
 ### Chapter 10 Statistics And Probability
