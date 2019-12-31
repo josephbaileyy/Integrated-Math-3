@@ -103,9 +103,12 @@
 - [x] 8-7 Solving Linear-Nonlinear Systems
   - [Example](https://www.youtube.com/watch?v=H-_yl6xHPSI)
 ### Chapter 9 Sequences And Series
-- [ ] 9-1 Sequences as Functions
-- [ ] 9-2 Arithmetic Sequences and Series
+- [x] 9-1 Sequences as Functions
+  - [Lesson](https://www.youtube.com/watch?v=zhoN7-PXmvs)
+- [x] 9-2 Arithmetic Sequences and Series
+  - [Lesson](https://www.youtube.com/watch?v=KFQHsJRHDxU)
 - [ ] 9-3 Geometric Sequences and Series
+  - [Derivation](https://www.mathalino.com/reviewer/derivation-of-formulas/sum-of-finite-and-infinite-geometric-progression)
 - [ ] 9-4 The Binomial Theorem
 - [ ] 9-5 Proof by Mathematical Induction
 ### Chapter 10 Statistics And Probability
