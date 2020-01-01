@@ -102,7 +102,8 @@
   - [Lesson](https://www.youtube.com/watch?v=auD46ZWZxQo)
 - [x] 8-7 Solving Linear-Nonlinear Systems
   - [Example](https://www.youtube.com/watch?v=H-_yl6xHPSI)
-### Chapter 9 Sequences And Series
+### Chapter 9 Sequences And Series\
+[Sigma Notation](http://www.mathcentre.ac.uk/resources/workbooks/mathcentre/sigma.pdf)
 - [x] 9-1 Sequences as Functions
   - [Lesson](https://www.youtube.com/watch?v=zhoN7-PXmvs)
 - [x] 9-2 Arithmetic Sequences and Series
@@ -111,9 +112,12 @@
   - [Lesson](https://www.youtube.com/watch?v=LkYQYsZP524)
   - [Derivation](https://www.mathalino.com/reviewer/derivation-of-formulas/sum-of-finite-and-infinite-geometric-progression)
 - [x] 9-4 The Binomial Theorem\
-  ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%7Bn%20%5Cchoose%20k%7D%3D%5Cfrac%7Bn%21%7D%7B%28n-k%29%21n%21%7D)
+  ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%7Bn%20%5Cchoose%20k%7D%3D%5Cfrac%7Bn%21%7D%7B%28n-k%29%21n%21%7D)\
+  ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%28x&plus;y%29%5E%7Bn%7D%3D%5Csum_%7Bk%3D0%7D%5E%7Bn%7D%5Cbinom%7Bn%7D%7Bk%7Dx%5E%7Bn-k%7Dy%5E%7Bk%7D)
   - [Lesson](https://www.youtube.com/watch?v=iPwrDWQ7hPc)
-- [ ] 9-5 Proof by Mathematical Induction
+- [x] 9-5 Proof by Mathematical Induction
+  - [Example](https://www.youtube.com/watch?v=IFqna5F0kW8)
+  - [Example 2](https://www.youtube.com/watch?v=wblW_M_HVQ8)
 ### Chapter 10 Statistics And Probability
 - [ ] 10-1 Designing a Study
 - [ ] 10-2 Distributions of Data
