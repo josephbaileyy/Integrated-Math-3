@@ -126,9 +126,13 @@
 - [x] 10-2 Distributions of Data
   - [Lesson](https://www.youtube.com/watch?v=bPFNxD3Yg6U)
 - [x] 10-4 The Binomial Distribution\
+  **Probability of Binomial Distribution**\
   ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20P%28x%29%3D%7Bn%20%5Cchoose%20x%7Dp%5E%7Bx%7Dq%5E%7Bn-x%7D)\
   `n: number of trials, x: number of successful events,`\
-  `p: probability of successful event, q: probability of failed event`
+  `p: probability of successful event, q: probability of failed event`\
+  **Mean and Standard Deviation of Binomial Distribtuion**\
+  Mean: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Cmu%20%3D%20E%28x%29%20%3D%20np)\
+  Standard Devation: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csigma%20%3D%20%5Csqrt%7Bnpq%7D)
   - [Example](https://www.youtube.com/watch?v=3PWKQiLK41M)
   - [Explanation 1](https://www.youtube.com/watch?v=Bb0wZwjhEWY)
   - [Explanation 2](https://www.youtube.com/watch?v=J8jNoF-K8E8)
