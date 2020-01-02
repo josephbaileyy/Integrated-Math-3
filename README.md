@@ -118,9 +118,12 @@
 - [x] 9-5 Proof by Mathematical Induction
   - [Example](https://www.youtube.com/watch?v=IFqna5F0kW8)
   - [Example 2](https://www.youtube.com/watch?v=wblW_M_HVQ8)
+  - [Example 3](https://www.youtube.com/watch?v=tHNVX3e9zd0)
 ### Chapter 10 Statistics And Probability
-- [ ] 10-1 Designing a Study
-- [ ] 10-2 Distributions of Data
+- [x] 10-1 Designing a Study
+  - [Lesson](https://www.youtube.com/watch?v=z-Qi4w6Xkuc)
+- [x] 10-2 Distributions of Data
+  - [Lesson](https://www.youtube.com/watch?v=bPFNxD3Yg6U)
 - [ ] 10-4 The Binomial Distribution
 - [ ] 10-5 The Normal Distribution
 - [ ] 10-6 Confidence Intervals and Hypothesis Testing
