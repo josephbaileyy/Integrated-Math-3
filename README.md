@@ -115,6 +115,7 @@
   ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%7Bn%20%5Cchoose%20k%7D%3D%5Cfrac%7Bn%21%7D%7B%28n-k%29%21n%21%7D)\
   ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%28x&plus;y%29%5E%7Bn%7D%3D%5Csum_%7Bk%3D0%7D%5E%7Bn%7D%5Cbinom%7Bn%7D%7Bk%7Dx%5E%7Bn-k%7Dy%5E%7Bk%7D)
   - [Lesson](https://www.youtube.com/watch?v=iPwrDWQ7hPc)
+  - [Binomial Coefficient Explanation](https://www.youtube.com/watch?v=AOsWph2FNLw)
 - [x] 9-5 Proof by Mathematical Induction
   - [Example](https://www.youtube.com/watch?v=IFqna5F0kW8)
   - [Example 2](https://www.youtube.com/watch?v=wblW_M_HVQ8)
@@ -124,7 +125,13 @@
   - [Lesson](https://www.youtube.com/watch?v=z-Qi4w6Xkuc)
 - [x] 10-2 Distributions of Data
   - [Lesson](https://www.youtube.com/watch?v=bPFNxD3Yg6U)
-- [ ] 10-4 The Binomial Distribution
+- [x] 10-4 The Binomial Distribution\
+  ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20P%28x%29%3D%7Bn%20%5Cchoose%20x%7Dp%5E%7Bx%7Dq%5E%7Bn-x%7D)\
+  `n: number of trials, x: number of successful events,`\
+  `p: probability of successful event, q: probability of failed event`
+  - [Example](https://www.youtube.com/watch?v=3PWKQiLK41M)
+  - [Explanation 1](https://www.youtube.com/watch?v=Bb0wZwjhEWY)
+  - [Explanation 2](https://www.youtube.com/watch?v=J8jNoF-K8E8)
 - [ ] 10-5 The Normal Distribution
 - [ ] 10-6 Confidence Intervals and Hypothesis Testing
 - [ ] 10-7 Simulations
