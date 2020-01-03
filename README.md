@@ -147,6 +147,7 @@
   A ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%281-%5Calpha%29100%5C%25) confidence interval for ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Cmu) is given by: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Cbar%7BX%7D%20%5Cpm%20z_%7B%5Calpha%20/2%7D%20%5Ctimes%20%5Cfrac%7B%5Csigma%7D%7B%5Csqrt%7Bn%7D%7D)
   - [Derivation of the Mean and Variance of the Sample Mean](https://www.youtube.com/watch?v=7mYDHbrLEQo)
   - [Derivation of Confidence Interval](https://www.youtube.com/watch?v=-iYDu8flFXQ)
+  - [Example: Confidence Interval Sigma Known](https://www.youtube.com/watch?v=KG921rfbTDw)
 - [ ] 10-7 Simulations
 ### Chapter 11 Trigonometric Functions
 - [ ] 11-1 Trigonometric Functions in Right Triangles 
