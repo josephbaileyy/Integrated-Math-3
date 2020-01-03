@@ -141,7 +141,11 @@
   Probability Density Function: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5CPr%20%5Ba%20%5Cleq%20X%20%5Cleq%20b%5D%20%3D%20%5Cint_%7Ba%7D%5E%7Bb%7D%5Cfrac%7Be%5E%7B-%28x%20-%20%5Cmu%29%5E%7B2%7D/%282%5Csigma%5E%7B2%7D%29%20%7D%7D%20%7B%5Csigma%5Csqrt%7B2%5Cpi%7D%7Ddx)
   - [Example](https://www.youtube.com/watch?v=gHBL5Zau3NE)
 - [x] 10-6 Confidence Intervals and Hypothesis Testing\
-  Confidence Interval for ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Cmu): ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Cbar%7BX%7D%20%5Cpm%20Margin%20%5C%3A%20of%20%5C%3A%20Error)
+  Confidence Interval for ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Cmu): ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Cbar%7BX%7D%20%5Cpm%20Margin%20%5C%3A%20of%20%5C%3A%20Error)\
+  Standard Error of the Mean (Deviation of the Sample Mean from the Population Mean): ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csigma_%7B%5Cbar%7Bx%7D%7D%3D%5Cfrac%7B%5Csigma%7D%7B%5Csqrt%7Bn%7D%7D)\
+  No. of Standard Deviations from the Mean (z): ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20z%3D%5Cfrac%7B%5Cbar%7Bx%7D-%20%5Cmu%7D%7B%5Csigma/%5Csqrt%7Bn%7D%7D)\
+  A ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%281-%5Calpha%29100%5C%25) confidence interval for ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Cmu) is given by: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Cbar%7BX%7D%20%5Cpm%20z_%7B%5Calpha%20/2%7D%20%5Ctimes%20%5Cfrac%7B%5Csigma%7D%7B%5Csqrt%7Bn%7D%7D)
+  - [Derivation of the Mean and Variance of the Sample Mean](https://www.youtube.com/watch?v=7mYDHbrLEQo)
   - [Derivation of Confidence Interval](https://www.youtube.com/watch?v=-iYDu8flFXQ)
 - [ ] 10-7 Simulations
 ### Chapter 11 Trigonometric Functions
