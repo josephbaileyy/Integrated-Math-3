@@ -140,7 +140,8 @@
   ![equation](https://latex.codecogs.com/gif.latex?1%5Csigma%3D%2068.27%5C%25%3B%202%5Csigma%3D%2095.45%5C%25%3B%203%5Csigma%20%3D%2099.73%5C%25)\
   Probability Density Function: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5CPr%20%5Ba%20%5Cleq%20X%20%5Cleq%20b%5D%20%3D%20%5Cint_%7Ba%7D%5E%7Bb%7D%5Cfrac%7Be%5E%7B-%28x%20-%20%5Cmu%29%5E%7B2%7D/%282%5Csigma%5E%7B2%7D%29%20%7D%7D%20%7B%5Csigma%5Csqrt%7B2%5Cpi%7D%7Ddx)
   - [Example](https://www.youtube.com/watch?v=gHBL5Zau3NE)
-- [ ] 10-6 Confidence Intervals and Hypothesis Testing
+- [x] 10-6 Confidence Intervals and Hypothesis Testing
+  - [Example](https://www.youtube.com/watch?v=hlM7zdf7zwU)
 - [ ] 10-7 Simulations
 ### Chapter 11 Trigonometric Functions
 - [ ] 11-1 Trigonometric Functions in Right Triangles 
