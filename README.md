@@ -148,11 +148,22 @@
   - [Derivation of the Mean and Variance of the Sample Mean](https://www.youtube.com/watch?v=7mYDHbrLEQo)
   - [Derivation of Confidence Interval](https://www.youtube.com/watch?v=-iYDu8flFXQ)
   - [Example: Confidence Interval Sigma Known](https://www.youtube.com/watch?v=KG921rfbTDw)
-- [ ] 10-7 Simulations
+  - [Example: Hypothesis Testing](https://www.youtube.com/watch?v=zJ8e_wAWUzE)
+- [x] 10-7 Simulations
+  - [Example](https://www.youtube.com/watch?v=RdvsumoSMew)
 ### Chapter 11 Trigonometric Functions
-- [ ] 11-1 Trigonometric Functions in Right Triangles 
-- [ ] 11-2 Angles and Angle Measure
-- [ ] 11-3 Trigonometric Functions of General Angles
+- [x] 11-1 Trigonometric Functions in Right Triangles\
+  SOH: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csin%5Ctheta%20%3D%20%5Cfrac%7Bopp%7D%7Bhyp%7D)\
+  CAH: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccos%5Ctheta%20%3D%20%5Cfrac%7Badj%7D%7Bhyp%7D)\
+  TOA: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ctan%5Ctheta%20%3D%20%5Cfrac%7Bopp%7D%7Badj%7D)\
+  Cosecant (csc), Secant (sec), and Cotangent (cot) are reciprocal functions of Sine (sin), Cosine (cos), and Tangent (tan), respectively.
+  - [Example](https://www.youtube.com/watch?v=ab4WPecBHDw)
+- [x] 11-2 Angles and Angle Measure
+  - [Example](https://www.youtube.com/watch?v=jSXSVcLD9cY)
+- [x] 11-3 Trigonometric Functions of General Angles\
+  ![image](http://www.themathpage.com/aTrig/Trig_IMG/analy2a.gif)\
+  ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csin%5Ctheta%20%3D%20%5Cfrac%7By%7D%7Br%7D%2C%20%5Ccos%5Ctheta%20%3D%20%5Cfrac%7Bx%7D%7Br%7D%2C%20%5Ctan%5Ctheta%20%3D%20%5Cfrac%7By%7D%7Bx%7D)
+  - [Example](https://www.youtube.com/watch?v=pDCyCx3lIaQ)
 - [ ] 11-4 Law of Sines
 - [ ] 11-5 Law of Cosines
 - [ ] 11-6 Circular and Periodic Functions
