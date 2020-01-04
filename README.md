@@ -156,7 +156,8 @@
   SOH: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csin%5Ctheta%20%3D%20%5Cfrac%7Bopp%7D%7Bhyp%7D)\
   CAH: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccos%5Ctheta%20%3D%20%5Cfrac%7Badj%7D%7Bhyp%7D)\
   TOA: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ctan%5Ctheta%20%3D%20%5Cfrac%7Bopp%7D%7Badj%7D)\
-  Cosecant (csc), Secant (sec), and Cotangent (cot) are reciprocal functions of Sine (sin), Cosine (cos), and Tangent (tan), respectively.
+  Cosecant (![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccsc)), Secant (![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csec)), and Cotangent (![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccot)) are reciprocal functions of Sine (![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csin)), Cosine (![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccos)), and Tangent (![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ctan)), respectively.\
+  Arcsine (![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csin%5E%7B-1%7D)), Arccosine (![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccos%5E%7B-1%7D)), and Arctangent (![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ctan%5E%7B-1%7D)) are inverse functions.
   - [Example](https://www.youtube.com/watch?v=ab4WPecBHDw)
 - [x] 11-2 Angles and Angle Measure
   - [Example](https://www.youtube.com/watch?v=jSXSVcLD9cY)
@@ -166,9 +167,16 @@
   Degrees to Radians: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20degree%20%5Ctimes%20%5Cfrac%7B%5Cpi%7D%7B180%5Cdegree%7D)\
   Radians to Degrees: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20radian%20%5Ctimes%20%5Cfrac%7B180%5Cdegree%7D%7B%5Cpi%7D)
   - [Example](https://www.youtube.com/watch?v=pDCyCx3lIaQ)
-- [ ] 11-4 Law of Sines
-- [ ] 11-5 Law of Cosines
-- [ ] 11-6 Circular and Periodic Functions
+- [x] 11-4 Law of Sines\
+  Law of Sines: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Cfrac%7Ba%7D%7B%5Csin%20A%7D%3D%5Cfrac%7Bb%7D%7B%5Csin%20B%7D%3D%5Cfrac%7Bc%7D%7B%5Csin%20C%7D)
+  - [Example](https://www.youtube.com/watch?v=9fS0uA4iLxI)
+- [x] 11-5 Law of Cosines\
+  Law of Cosines: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20c%5E%7B2%7D%20%3D%20a%5E%7B2%7D&plus;b%7B2%7D-2ab%5Ccos%7BC%7D)
+  - [Example](https://www.youtube.com/watch?v=9CGY0s-uCUE)
+- [x] 11-6 Circular and Periodic Functions\
+  Unit Circle:\
+  ![image](https://etc.usf.edu/clipart/43200/43215/unit-circle7_43215_sm.gif)
+  - [Lessson](https://www.youtube.com/watch?v=KJxkxM1vqDc)
 - [ ] 11-7 Graphing Trigonometric Functions
 - [ ] 11-8 Translations of Trigonometric Graphs
 - [ ] 11-9 Inverse Trigonometric Functions
