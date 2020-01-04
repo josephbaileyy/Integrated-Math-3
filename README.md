@@ -162,7 +162,9 @@
   - [Example](https://www.youtube.com/watch?v=jSXSVcLD9cY)
 - [x] 11-3 Trigonometric Functions of General Angles\
   ![image](http://www.themathpage.com/aTrig/Trig_IMG/analy2a.gif)\
-  ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csin%5Ctheta%20%3D%20%5Cfrac%7By%7D%7Br%7D%2C%20%5Ccos%5Ctheta%20%3D%20%5Cfrac%7Bx%7D%7Br%7D%2C%20%5Ctan%5Ctheta%20%3D%20%5Cfrac%7By%7D%7Bx%7D)
+  ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csin%5Ctheta%20%3D%20%5Cfrac%7By%7D%7Br%7D%2C%20%5Ccos%5Ctheta%20%3D%20%5Cfrac%7Bx%7D%7Br%7D%2C%20%5Ctan%5Ctheta%20%3D%20%5Cfrac%7By%7D%7Bx%7D)\
+  Degrees to Radians: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20degree%20%5Ctimes%20%5Cfrac%7B%5Cpi%7D%7B180%5Cdegree%7D)\
+  Radians to Degrees: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20radian%20%5Ctimes%20%5Cfrac%7B180%5Cdegree%7D%7B%5Cpi%7D)
   - [Example](https://www.youtube.com/watch?v=pDCyCx3lIaQ)
 - [ ] 11-4 Law of Sines
 - [ ] 11-5 Law of Cosines
