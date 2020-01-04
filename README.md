@@ -177,9 +177,18 @@
   Unit Circle:\
   ![image](https://etc.usf.edu/clipart/43200/43215/unit-circle7_43215_sm.gif)
   - [Lessson](https://www.youtube.com/watch?v=KJxkxM1vqDc)
-- [ ] 11-7 Graphing Trigonometric Functions
-- [ ] 11-8 Translations of Trigonometric Graphs
-- [ ] 11-9 Inverse Trigonometric Functions
+- [x] 11-7 Graphing Trigonometric Functions
+  - [Lesson](https://www.youtube.com/watch?v=H0QveRy8OgY)
+- [x] 11-8 Translations of Trigonometric Graphs\
+  Sine Parent Function: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20y%3DA%5Csin%28Bx-C%29&plus;D)\
+  Cossine Parent Fuction: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20y%3DA%5Ccos%28Bx-C%29&plus;D)\
+  ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20A) is amplitude/ reflection, ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Cfrac%7B2%5Cpi%7D%7B%5Cvert%7BB%7D%5Cvert%7D) is the period, ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Cfrac%7BC%7D%7BB%7D) is the phase shift, and ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20D) is vertical shift.
+  - [Lesson](https://www.youtube.com/watch?v=cGlxi451oVg)
+- [x] 11-9 Inverse Trigonometric Functions\
+  Range of Arcsine: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20R%5B-%5Cpi/2%2C%5Cpi/2%5D%20%5Cor%20R%5B-90%5Cdegree%2C%2090%5Cdegree%5D)\
+  Range of Arccosine: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20R%5B0%2C%5Cpi%5D%20%5Cor%20R%5B0%5Cdegree%2C%20180%5Cdegree%5D)\
+  Range of Arctan: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20R%5B-%5Cpi/2%2C%5Cpi/2%5D%20%5Cor%20R%5B-90%5Cdegree%2C%2090%5Cdegree%5D)
+  - [Example](https://www.youtube.com/watch?v=aRVWs1tDarI)
 ### Chapter 12 Trigonometric Identities And Equations
 - [ ] 12-1 Trigonometric Identities
 - [ ] 12-2 Verifying Trigonometric Identities
