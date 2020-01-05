@@ -179,6 +179,7 @@
   - [Lessson](https://www.youtube.com/watch?v=KJxkxM1vqDc)
 - [x] 11-7 Graphing Trigonometric Functions
   - [Lesson](https://www.youtube.com/watch?v=H0QveRy8OgY)
+  - [Lesson](https://www.youtube.com/watch?v=WyTGzqbktwA)
 - [x] 11-8 Translations of Trigonometric Graphs\
   Sine Parent Function: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20y%3DA%5Csin%28Bx-C%29&plus;D)\
   Cossine Parent Fuction: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20y%3DA%5Ccos%28Bx-C%29&plus;D)\
@@ -190,9 +191,16 @@
   Range of Arctan: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20R%5B-%5Cpi/2%2C%5Cpi/2%5D%20%5Cor%20R%5B-90%5Cdegree%2C%2090%5Cdegree%5D)
   - [Example](https://www.youtube.com/watch?v=aRVWs1tDarI)
 ### Chapter 12 Trigonometric Identities And Equations
-- [ ] 12-1 Trigonometric Identities
-- [ ] 12-2 Verifying Trigonometric Identities
-- [ ] 12-3 Sum and Difference Angles Identities
+- [x] 12-1 Trigonometric Identities\
+  Basic Trig Identities: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccos%5E%7B2%7D%5Ctheta%20&plus;%20%5Csin%5E%7B2%7D%5Ctheta%20%3D%201), ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ctan%5E%7B2%7D%5Ctheta%20&plus;%201%3D%20%5Csec%5E%7B2%7D%5Ctheta), ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccot%5E%7B2%7D%5Ctheta%20&plus;%201%3D%20%5Ccsc%5E%7B2%7D%5Ctheta), ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ctan%5Ctheta%3D%5Cfrac%7B%5Csin%5Ctheta%7D%7B%5Ccos%5Ctheta%7D)
+  - [Example](https://www.youtube.com/watch?v=RWQpdBNfEmY)
+  - [Example 2](https://www.youtube.com/watch?v=D_M0N3tC98A)
+- [x] 12-2 Verifying Trigonometric Identities
+  - [Example](https://www.youtube.com/watch?v=ep5vjIY5kqE)
+- [x] 12-3 Sum and Difference Angles Identities
+  ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csin%28A&plus;B%29%3D%20%5Csin%20A%20%5Ccos%20B%20&plus;%20%5Ccos%20A%20%5Csin%20B), ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccos%28A&plus;B%29%3D%20%5Ccos%20A%20%5Ccos%20B%20-%5Csin%20A%20%5Csin%20B)
+  - [Proof](https://www.youtube.com/watch?v=ea6-ctMYn_Q)
+  - [Example](https://www.youtube.com/watch?v=sU2pyMR8GZ4)
 - [ ] 12-4 Double-Angle and Half-Angle Identities
 - [ ] 12-5 Solving Trigonometric Equations
 ### Chapter 13 Proportions And Similarity
@@ -214,7 +222,7 @@
 - [ ] 15-4 Volumes of Prisms and Cylinders
 - [ ] 15-5 Volumes of Pyramids and Cones
 
-## Resources
+## Resources 
 - [Textbook](https://www.amazon.com/Integrated-Math-Course-3-Student/dp/0076638529/)
 - [Slader Textbook Answers](https://www.slader.com/textbook/9780076638529-integrated-math-3/)
 - [Khan Academy](khanacademy.org)
