@@ -197,12 +197,18 @@
   - [Example 2](https://www.youtube.com/watch?v=D_M0N3tC98A)
 - [x] 12-2 Verifying Trigonometric Identities
   - [Example](https://www.youtube.com/watch?v=ep5vjIY5kqE)
-- [x] 12-3 Sum and Difference Angles Identities
-  ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csin%28A&plus;B%29%3D%20%5Csin%20A%20%5Ccos%20B%20&plus;%20%5Ccos%20A%20%5Csin%20B), ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccos%28A&plus;B%29%3D%20%5Ccos%20A%20%5Ccos%20B%20-%5Csin%20A%20%5Csin%20B)
+- [x] 12-3 Sum and Difference Angles Identities\
+  ![image](https://qph.fs.quoracdn.net/main-qimg-e0dcc81071ff5afa643d0f3ada0acc12.webp)
   - [Proof](https://www.youtube.com/watch?v=ea6-ctMYn_Q)
   - [Example](https://www.youtube.com/watch?v=sU2pyMR8GZ4)
-- [ ] 12-4 Double-Angle and Half-Angle Identities
-- [ ] 12-5 Solving Trigonometric Equations
+- [x] 12-4 Double-Angle and Half-Angle Identities\
+  Double-Angle Identities: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csin%282%5Ctheta%29%20%3D%202%5Csin%5Ctheta%5Ccos%5Ctheta), ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccos%282%5Ctheta%29%3D%20cos%5E2%5Ctheta-%5Csin%5E2%5Ctheta), ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccos%282%5Ctheta%29%3D2%5Ccos%5E2%5Ctheta-1), ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccos%282%5Ctheta%29%3D%201%20-%202%5Csin%5E2%5Ctheta), ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ctan%282%5Ctheta%29%3D%5Cfrac%7B2%5Ctan%5Ctheta%7D%7B1-%5Ctan%5E2%5Ctheta%7D)\
+  Half-Angle Identities: ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Csin%20%5Cfrac%7B%5Ctheta%7D%7B2%7D%3D%5Cpm%20%5Csqrt%5Cfrac%7B1-%5Ccos%5Ctheta%7D%7B2%7D), ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ccos%5Cfrac%7B%5Ctheta%7D%7B2%7D%3D%20%5Cpm%20%5Csqrt%5Cfrac%7B1&plus;%5Ccos%5Ctheta%7D%7B2%7D), ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ctan%5Cfrac%7B%5Ctheta%7D%7B2%7D%3D%20%5Cfrac%7B1-%5Ccos%5Ctheta%7D%7B%5Csin%5Ctheta%7D), ![equation](https://latex.codecogs.com/svg.latex?%5Csmall%20%5Ctan%5Cfrac%7B%5Ctheta%7D%7B2%7D%3D%20%5Cfrac%7B%5Csin%5Ctheta%7D%7B1&plus;%5Ccos%5Ctheta%7D)
+  - [Derivation of a Double-Angle](https://www.intmath.com/analytic-trigonometry/3-double-angle-formulas.php)
+  - [Derivation of a Half-Angle](https://www.intmath.com/analytic-trigonometry/4-half-angle-formulas.php)
+  - [Example](https://www.youtube.com/watch?v=wEjzs4UoSFY)
+- [x] 12-5 Solving Trigonometric Equations
+  - [Example](https://www.youtube.com/watch?v=kEcbxiLeGTc)
 ### Chapter 13 Proportions And Similarity
 - [ ] 13-1 Ratios and Proportions
 - [ ] 13-2 Parallel Lines and Proportional Parts
