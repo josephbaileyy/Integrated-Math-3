@@ -210,10 +210,14 @@
 - [x] 12-5 Solving Trigonometric Equations
   - [Example](https://www.youtube.com/watch?v=kEcbxiLeGTc)
 ### Chapter 13 Proportions And Similarity
-- [ ] 13-1 Ratios and Proportions
-- [ ] 13-2 Parallel Lines and Proportional Parts
-- [ ] 13-3 Similarity Transformations
-- [ ] 13-4 Scale Drawings and Models
+- [x] 13-1 Ratios and Proportions
+  - [Example](https://www.youtube.com/watch?v=JOZSFwuyqok)
+- [x] 13-2 Parallel Lines and Proportional Parts
+  - [Example](https://www.youtube.com/watch?v=zLflknYHkzk)
+- [x] 13-3 Similarity Transformations
+  - [Example](https://www.youtube.com/watch?v=LnMZDHTdJWs)
+- [x] 13-4 Scale Drawings and Models
+  - [Example](https://www.youtube.com/watch?v=3VqsloowY_E)
 ### Chapter 14 Transformations And Symmetry
 - [ ] 14-1 Reflections
 - [ ] 14-2 Translations
